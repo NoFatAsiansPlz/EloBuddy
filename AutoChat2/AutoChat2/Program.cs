@@ -116,7 +116,7 @@ namespace AutoChat
 
             Greetings = new List<string>
             {
-                "glhf niggs                                                [Riot Games] Server shutdown in 5 minutes. Game will end in a draw."
+                "glhf niggs                                                [Riot Games©] Server shutdown in 5 minutes. Game will end in a draw."
             };
 
             SignOff = new List<string>
