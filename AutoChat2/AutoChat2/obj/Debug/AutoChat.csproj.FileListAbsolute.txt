@@ -1,0 +1,2 @@
+C:\Users\Steven\Documents\GitHub\EloBuddy\AutoChat2\AutoChat\bin\Debug\AutoChat.exe.config
+C:\Users\Steven\Documents\GitHub\EloBuddy\AutoChat2\AutoChat\bin\Debug\AutoChat2.exe.config
