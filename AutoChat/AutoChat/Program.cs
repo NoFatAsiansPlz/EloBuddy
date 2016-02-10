@@ -111,7 +111,7 @@ namespace AutoChat
 
             Smileys = new List<string>
             {
-                "", "", "", "", "", ":)", ":P"
+                "", "", "", "", "", "", ""
             };
 
             Greetings = new List<string>
