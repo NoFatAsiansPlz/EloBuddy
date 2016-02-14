@@ -116,7 +116,7 @@ namespace AutoChat
 
             Greetings = new List<string>
             {
-                "glhf niggs                                                [Riot Games©] We added a funny feature! Hit enter twice and type fed!"
+                "glhf you sluts                                                [Riot Games©] We added a funny feature! Hit enter twice and type fed!"
             };
 
             SignOff = new List<string>
